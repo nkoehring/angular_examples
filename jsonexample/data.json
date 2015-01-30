@@ -1,0 +1,6 @@
+{ "items": [
+    {"name": "Anton", "amount": 3, "price": 24.99},
+    {"name": "Bertram", "amount": 2, "price": 31.99},
+    {"name": "Oli", "amount": 23, "price": 4.99},
+    {"name": "Susi", "amount": 5, "price": 24.99}
+]}
